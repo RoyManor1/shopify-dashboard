@@ -1,4 +1,4 @@
-# 🛍️ Shopify Dashboard
+#  Shopify Dashboard
 
 This project visualizes trends from a dataset of **1 million Shopify stores**, using Python, Seaborn, and MoreThemes.  
 It explores how traffic, technology stacks, and store creation timelines affect performance across the platform.
@@ -6,7 +6,7 @@ It explores how traffic, technology stacks, and store creation timelines affect 
 
 ---
 
-## 📊 Visual Highlights
+##  Visual Highlights
 
 
 
