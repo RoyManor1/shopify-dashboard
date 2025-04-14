@@ -72,14 +72,9 @@ Ranks the most common technologies in Shopify stacks — including payment proce
 
 - **Python 3**
 - **Pandas**, **Matplotlib**, **Seaborn**, **MoreThemes**
-- Visual theme: `wsj` from [MoreThemes](https://github.com/JulienCode/morethemes)
 - Dataset: Publicly available scraped data from StoreLeads.io
 
 ---
 
-## 🚀 How to Run It
 
-1. Clone the repo
-2. Install dependencies:  
-   ```bash
    pip install pandas matplotlib seaborn morethemes
