@@ -3,14 +3,6 @@
 This project visualizes trends from a dataset of **1 million Shopify stores**, using Python, Seaborn, and MoreThemes.  
 It explores how traffic, technology stacks, and store creation timelines affect performance across the platform.
 
----
-
-## 🔍 Key Insights
-
-- 📉 **Median monthly sales** of new stores have **declined sharply since 2020**, reflecting increased competition and saturation.
-- 🛒 **Klaviyo** dominates the marketing app landscape, with significant adoption across stores.
-- 📈 More pageviews typically lead to higher sales — but **conversion rates vary significantly**, even among stores with similar traffic levels.
-- 🧠 Stores created earlier tend to outperform newer stores in revenue.
 
 ---
 
@@ -40,9 +32,6 @@ It excludes the top 1% of outliers to focus on typical store performance.
 
 ### 3️⃣ Store Distribution by State
 
-Displays the percentage of stores from each U.S. state.  
-
-🌍 California, Florida, and Texas lead in store count.
 
 ![State Distribution](StateDistrubution.png)
 
@@ -62,19 +51,19 @@ This bar chart shows the top marketing tools installed by Shopify stores.
 
 Ranks the most common technologies in Shopify stacks — including payment processors, analytics, and CDNs.
 
-⚙️ Cloudflare and Shop Pay are among the most widely adopted tools.
 
 ![Top 10 Technologies](Top10Technologies.png)
 
 ---
 
-## 🧪 Tools Used
+## 🧰 Tools Used
 
+- **SQL** – Used to clean, filter, and structure the raw dataset prior to analysis
 - **Python 3**
 - **Pandas**, **Matplotlib**, **Seaborn**, **MoreThemes**
-- Dataset: Publicly available scraped data from StoreLeads.io
+- Dataset: Proprietary data scraped from StoreLeads.io (not publicly available)
+
 
 ---
 
 
-   pip install pandas matplotlib seaborn morethemes
