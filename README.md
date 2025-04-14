@@ -41,7 +41,7 @@ It excludes the top 1% of outliers to focus on typical store performance.
 
 This bar chart shows the top marketing tools installed by Shopify stores.  
 
-🔥 Klaviyo dominates the field with 92,802 clients, followed closely by Judge.me and Mailchimp.
+ Klaviyo dominates the field with 92,802 clients, followed closely by Judge.me and Mailchimp.
 
 ![Top 10 Apps](Top10Apps.png)
 
