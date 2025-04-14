@@ -8,7 +8,7 @@ It explores how traffic, technology stacks, and store creation timelines affect 
 
 ## 📊 Visual Highlights
 
----
+
 
 ### 1️⃣ Median Monthly Sales Over Time (2006–2024)
 
