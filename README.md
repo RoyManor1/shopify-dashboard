@@ -52,14 +52,6 @@ Ranks the most common technologies in Shopify stacks — including payment proce
 
 ---
 
-## 🧰 Tools Used
 
-- **SQL** – Used to clean, filter, and structure the raw dataset prior to analysis
-- **Python 3**
-- **Pandas**, **Matplotlib**, **Seaborn**, **MoreThemes**
-- Dataset: Proprietary data scraped from StoreLeads.io (not publicly available)
-
-
----
 
 
