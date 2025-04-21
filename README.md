@@ -6,34 +6,32 @@
 
 
 
-### 1️⃣ Median Monthly Sales Over Time (2006–2024)
+### 1️ Median Monthly Sales Over Time (2006–2024)
 
-This line chart shows the **3-month rolling median monthly sales** based on store creation date.  
-It excludes the top 1% of outliers to focus on typical store performance.
 
-📉 Key Trend: Newer stores earn significantly less than earlier ones.
+ Key Trend: Newer stores earn significantly less than earlier ones.
 
 ![Line Chart](creationstore.png)
 
 ---
 
-### 2️⃣ Pageviews vs. Monthly Sales (Performance Scatter)
+### 2️ Pageviews vs. Monthly Sales (Performance Scatter)
 
 
-📈 Some stores with similar traffic convert far better than others, highlighting the gap in optimization and business models.
+ Some stores with similar traffic convert far better than others, highlighting the gap in optimization and business models.
 
 ![Scatter Plot](PageViewVSsales.png)
 
 ---
 
-### 3️⃣ Store Distribution by State
+### 3️ Store Distribution by State
 
 
 ![State Distribution](StateDistrubution.png)
 
 ---
 
-### 4️⃣ Top 10 Marketing Apps
+### 4️ Top 10 Marketing Apps
 
 This bar chart shows the top marketing tools installed by Shopify stores.  
 
@@ -43,9 +41,9 @@ This bar chart shows the top marketing tools installed by Shopify stores.
 
 ---
 
-### 5️⃣ Top 10 Technologies Used by Shopify Stores
+### 5️ Top 10 Technologies Used by Shopify Stores
 
-Ranks the most common technologies in Shopify stacks — including payment processors, analytics, and CDNs.
+Ranks the most common technologies in Shopify stacks, including payment processors, analytics, and CDNs.
 
 
 ![Top 10 Technologies](Top10Technologies.png)
